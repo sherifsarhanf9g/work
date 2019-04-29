@@ -1,0 +1,30 @@
+{
+  "county": [{
+    "id": 1,
+    "county": "Autauga",
+    "state": "Alabama",
+    "fipsCode": 1001,
+    "vert": 131,
+    "edge": 44,
+    "face": 5,
+    "benchmark": "ACS-18"
+  }, {
+    "id": 2,
+    "county": "Baldwin",
+    "state": "Alabama",
+    "fipsCode": 1003,
+    "vert": 105,
+    "edge": 46,
+    "face": 5,
+    "benchmark": "ACS-18"
+  }, {
+    "id": 3,
+    "county": "Barbour",
+    "state": "Alabama",
+    "fipsCode": 1005,
+    "vert": 148,
+    "edge": 26,
+    "face": 9,
+    "benchmark": "ACS-18"
+  }]
+}
